@@ -29,6 +29,7 @@ class ClaseConErroresTest {
 		} catch (MotorException e) {			
 			e.printStackTrace();
 			
+			
 		}
 	}
 	
